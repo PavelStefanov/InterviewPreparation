@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	palindrome()
+	removeNthFromEnd(&ListNode{Val: 1, Next: &ListNode{Val: 2}}, 1)
 }
